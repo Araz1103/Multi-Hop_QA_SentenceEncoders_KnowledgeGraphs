@@ -1,0 +1,1 @@
+ At 8:23, the dispatcher tried unsuccessfully to contact the aircraft.

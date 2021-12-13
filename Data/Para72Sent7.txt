@@ -1,0 +1,1 @@
+They use latitude and longitude as a reference.

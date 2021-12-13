@@ -1,0 +1,1 @@
+ Instead, it begins to move horizontally.

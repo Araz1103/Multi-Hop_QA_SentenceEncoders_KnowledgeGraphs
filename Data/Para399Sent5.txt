@@ -1,0 +1,1 @@
+Any object exerts gravity on other objects.

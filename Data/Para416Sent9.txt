@@ -1,0 +1,1 @@
+The controller checked to see if American Airlines could establish communication with American 11.

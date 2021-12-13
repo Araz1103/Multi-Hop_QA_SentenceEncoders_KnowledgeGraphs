@@ -1,0 +1,1 @@
+Smaller sediments are dropped as the slope becomes less steep.

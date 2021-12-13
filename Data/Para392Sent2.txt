@@ -1,0 +1,1 @@
+Noether's theorem allows these quantities to be determined from a Lagrangian with translation invariance, but general covariance makes translation invariance into something of a gauge symmetry.

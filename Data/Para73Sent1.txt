@@ -1,0 +1,1 @@
+Magnets are able to place a force on certain materials.

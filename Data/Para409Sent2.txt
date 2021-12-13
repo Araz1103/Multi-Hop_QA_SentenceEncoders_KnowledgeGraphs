@@ -1,0 +1,1 @@
+It also include the ability for some material to act like a magnet.

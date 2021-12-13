@@ -1,0 +1,1 @@
+ Only one of those factors is latitude, or distance from the equator.

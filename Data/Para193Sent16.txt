@@ -1,0 +1,1 @@
+ It will no longer be able to move the rock and soil.

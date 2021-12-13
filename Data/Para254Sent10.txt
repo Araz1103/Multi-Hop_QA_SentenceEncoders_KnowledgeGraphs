@@ -1,0 +1,1 @@
+ Without that, the program might already be closed.

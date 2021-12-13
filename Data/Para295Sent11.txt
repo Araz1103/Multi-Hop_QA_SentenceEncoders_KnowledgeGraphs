@@ -1,0 +1,1 @@
+ An anemometer measures wind speed.

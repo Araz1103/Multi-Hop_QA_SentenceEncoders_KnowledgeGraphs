@@ -1,0 +1,1 @@
+This approach has been echoed by Lev Landau and Evgeny Lifshitz, and others, and has become standard.

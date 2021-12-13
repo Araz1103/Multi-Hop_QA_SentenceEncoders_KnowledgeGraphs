@@ -1,0 +1,1 @@
+The energy and momentum derived within general relativity by Noether's presecriptions do not make a real tensor for this reason.

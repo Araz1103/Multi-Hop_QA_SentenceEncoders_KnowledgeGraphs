@@ -1,0 +1,1 @@
+ A snow gauge measures the amount of snow.

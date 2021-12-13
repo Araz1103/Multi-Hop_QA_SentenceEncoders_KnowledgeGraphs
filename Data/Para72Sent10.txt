@@ -1,0 +1,1 @@
+ This grid is centered on a reference point.

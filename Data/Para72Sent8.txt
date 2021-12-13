@@ -1,0 +1,1 @@
+Lines of latitude and longitude form a grid.

@@ -1,0 +1,1 @@
+ Heavier objects also have more friction.

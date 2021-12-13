@@ -1,0 +1,1 @@
+ Gravity can act between objects that are not touching.

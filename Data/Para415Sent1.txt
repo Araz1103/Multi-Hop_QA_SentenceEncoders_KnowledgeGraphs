@@ -1,0 +1,1 @@
+When land is cleared, habitats are lost.
